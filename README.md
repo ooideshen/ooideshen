@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ooi De Shen (得珅) 👋
 
-<!--
-**ooideshen/ooideshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- [cite_start]🎓 Software Engineering Student @ APU 
+- [cite_start]🎯 Focused on **Backend Development** & **AI API Orchestration** 
+- [cite_start]🛠️ Currently building **EduPath AI** (Spring Boot + Next.js) 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Toolbox
+- [cite_start]**Languages:** Java, PHP, JavaScript, Python 
+- [cite_start]**Frameworks:** Spring Boot, Next.js 
+- [cite_start]**Databases:** MySQL, PostgreSQL, Custom Flat-files [cite: 11, 31]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Connect with me:
+[LinkedIn](https://linkedin.com/in/ooideshen) | [Email](mailto:ooideshen27@gmail.com)
